@@ -1,4 +1,4 @@
-# Hyperspectral-Image-Classification-via-Fusing-Correlation-Coefficient-and-Joint-Sparse-Representatio
+# Hyperspectral-Image-Classification-via-Fusing-Correlation-Coefficient-and-Joint-Sparse-Representation
 
 This code is for our paper "Hyperspectral Image Classification via Fusing 
 Correlation Coefficient and Joint Sparse Representation". 
